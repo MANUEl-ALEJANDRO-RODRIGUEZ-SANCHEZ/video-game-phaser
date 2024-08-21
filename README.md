@@ -1,39 +1,42 @@
 # 🚀 Avoid Obstacles Game
 
-## Descripción del Proyecto
+## Project Description
 
-El **Avoid Obstacles Game** es un emocionante videojuego donde el jugador controla una nave espacial que sigue al puntero del mouse. El objetivo es simple pero desafiante: evitar colisiones con meteoritos que se generan aleatoriamente y se mueven hacia la nave desde diferentes direcciones. A medida que el juego avanza, la dificultad incrementa con un aumento en la velocidad de los meteoritos, poniendo a prueba tus reflejos y habilidades.
+The **Avoid Obstacles Game** is an exciting video game where the player controls a spaceship that follows the mouse pointer. The objective is simple but challenging: avoid collisions with meteorites that generate randomly and move towards the ship from different directions. As the game progresses, the difficulty increases with an increase in the speed of the meteors, testing your reflexes and skills.
 
-Este juego fue diseñado para ser intuitivo y fácil de jugar, pero difícil de dominar, ofreciendo una experiencia adictiva para jugadores de todas las edades.
+This game was designed to be intuitive and easy to play, but difficult to master, offering an addictive experience for players of all ages.
 
-## 🎮 Características Principales
+## 🎮 Main Features
 
-- **Control Intuitivo:** Usa el puntero del mouse para mover la nave espacial. No se requieren teclas, solo mueve el mouse y evita los obstáculos.
-- **Dificultad Dinámica:** A medida que el tiempo pasa, la velocidad de los meteoritos aumenta, haciendo el juego más desafiante.
-- **Detección de Colisiones:** El juego termina si la nave espacial choca con un meteorito, mostrando una pantalla de "Game Over" con tu puntuación final.
-- **Estadísticas de Juego:** Se muestra la puntuación en tiempo real, permitiéndote ver cuán lejos llegas en cada intento.
+- **Intuitive Control:** Use the mouse pointer to move the spaceship. No keys required, just move the mouse and avoid obstacles.
+- **Dynamic Difficulty:** As time passes, the speed of the meteorites increases, making the game more challenging.
+- **Collision Detection:** The game ends if the spaceship collides with a meteorite, displaying a "Game Over" screen with your final score.
+- **Game Statistics:** The score is displayed in real time, allowing you to see how far you go with each attempt.
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Technologies Used
 
-- **Phaser 3:** Este es un framework de desarrollo de juegos en 2D basado en JavaScript. Phaser facilita la creación de juegos interactivos y visualmente atractivos. Se utilizó para manejar la física del juego, la detección de colisiones, el movimiento de los sprites y la generación de meteoritos.
+- **Phaser 3:** This is a 2D game development framework based on JavaScript. Phaser makes it easy to create interactive and visually appealing games. It was used to handle game physics, collision detection, sprite movement, and meteor generation.
   
-- **JavaScript (Vanilla):** Se empleó JavaScript para controlar la lógica del juego, incluyendo la creación de obstáculos, el manejo de eventos y la manipulación del DOM para mostrar la pantalla de "Game Over".
+- **JavaScript (Vanilla):** JavaScript was used to control the game logic, including creating obstacles, handling events, and manipulating the DOM to display the "Game Over" screen.
 
-- **HTML5:** El juego está integrado en una página HTML5 simple, que actúa como contenedor para el lienzo (`canvas`) donde se renderiza el juego.
+- **HTML5:** The game is integrated into a simple HTML5 page, which acts as a container for the canvas where the game is rendered.
 
-- **CSS3:** Se utilizó CSS para estilizar la pantalla de "Game Over", asegurando que el mensaje final sea claro y centrado, brindando una experiencia de usuario agradable.
+- **CSS3:** CSS was used to stylize the "Game Over" screen, ensuring the final message is clear and focused, providing a pleasant user experience.
 
-## 💡 Cómo Jugar
+## 💡 How to Play
 
-1. **Mover la Nave:** Simplemente mueve el puntero del mouse para controlar la nave espacial.
-2. **Evitar Obstáculos:** Mantente alejado de los meteoritos que se dirigen hacia ti.
-3. **Puntuación:** Tu puntuación aumenta con el tiempo que sobrevives. ¡Trata de alcanzar la puntuación más alta posible!
-4. **Reiniciar el Juego:** Si chocas con un meteorito, haz clic en el botón de "Reiniciar" en la pantalla de "Game Over" para intentarlo de nuevo.
+1. **Move the Ship:** Simply move the mouse pointer to control the spaceship.
+2. **Avoid Obstacles:** Stay away from meteors heading towards you.
+3. **Score:** Your score increases as you survive. Try to reach the highest score possible!
+4. **Restart the Game:** If you collide with a meteorite, click the "Restart" button on the "Game Over" screen to try again.
 
-## 🌟 Inspiración y Objetivo
+## 🌟 Inspiration and Objective
 
-Este proyecto fue creado con el propósito de aprender y aplicar conceptos fundamentales en el desarrollo de videojuegos utilizando **Phaser 3**. Se enfoca en la gestión de eventos, la detección de colisiones y el manejo de la física dentro de un entorno 2D. Además, se buscó diseñar un juego sencillo, pero con un componente adictivo que motive a los jugadores a mejorar constantemente sus habilidades.
+This project was created with the purpose of learning and applying fundamental concepts in video game development using **Phaser 3**. It focuses on event management, collision detection, and handling physics within a 2D environment. In addition, we sought to design a simple game, but with an addictive component that motivates players to constantly improve their skills.
 
-## 🔍 Conclusiones
+## 🔍 Conclusions
 
-El **Avoid Obstacles Game** es un ejemplo claro de cómo se pueden combinar tecnologías modernas como Phaser 3 y JavaScript para crear experiencias de juego atractivas y dinámicas. Este proyecto no solo muestra la potencia de estas herramientas, sino también cómo el desarrollo de juegos puede ser accesible y divertido para todos los niveles de habilidad en programación.
+The **Avoid Obstacles Game** is a clear example of how modern technologies like Phaser 3 and JavaScript can be combined to create engaging and dynamic gaming experiences. This project not only shows the power of these tools, but also how game development can be accessible and fun for all programming skill levels.
+
+## Author
+Manuel Rodriguez
