@@ -23,5 +23,17 @@ Este juego fue diseñado para ser intuitivo y fácil de jugar, pero difícil de 
 
 - **CSS3:** Se utilizó CSS para estilizar la pantalla de "Game Over", asegurando que el mensaje final sea claro y centrado, brindando una experiencia de usuario agradable.
 
-## 📂 Estructura del Proyecto
+## 💡 Cómo Jugar
 
+1. **Mover la Nave:** Simplemente mueve el puntero del mouse para controlar la nave espacial.
+2. **Evitar Obstáculos:** Mantente alejado de los meteoritos que se dirigen hacia ti.
+3. **Puntuación:** Tu puntuación aumenta con el tiempo que sobrevives. ¡Trata de alcanzar la puntuación más alta posible!
+4. **Reiniciar el Juego:** Si chocas con un meteorito, haz clic en el botón de "Reiniciar" en la pantalla de "Game Over" para intentarlo de nuevo.
+
+## 🌟 Inspiración y Objetivo
+
+Este proyecto fue creado con el propósito de aprender y aplicar conceptos fundamentales en el desarrollo de videojuegos utilizando **Phaser 3**. Se enfoca en la gestión de eventos, la detección de colisiones y el manejo de la física dentro de un entorno 2D. Además, se buscó diseñar un juego sencillo, pero con un componente adictivo que motive a los jugadores a mejorar constantemente sus habilidades.
+
+## 🔍 Conclusiones
+
+El **Avoid Obstacles Game** es un ejemplo claro de cómo se pueden combinar tecnologías modernas como Phaser 3 y JavaScript para crear experiencias de juego atractivas y dinámicas. Este proyecto no solo muestra la potencia de estas herramientas, sino también cómo el desarrollo de juegos puede ser accesible y divertido para todos los niveles de habilidad en programación.
